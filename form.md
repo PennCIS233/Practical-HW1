@@ -2,35 +2,35 @@
 
 ## Step 1.1:
 
-* Address of account A: 
-* Address of account B: 
+* Address of account A: L2OKGRKT5SYPTMW6HVJ6PQ357A5G3WFPCU55LGAYEXJ6SD57AFJNHLN5EI
+* Address of account B: PZ2QWHGLL2DTLYLY6FMOV62TL4GA2EGMZQDXN6Y6ZVH3EIERJJZV7PZADE
 
 ## Step 2:
 
-* Transaction ID from account A: 
-* Transaction ID from account B: 
+* Transaction ID from account A: HJJBBOBNHUD6UEOGIPOEWFG7NB37VENYNSUXOEO3ESCU66GEOEDA
+* Transaction ID from account B: PUKUQSISEUHQCGYT2RNTY742X7HZE63ERXOUCVDV2D6424ETPAJQ
 
 ## Step 3.1:
 
-* Asset ID:
-* Name of the asset: 
+* Asset ID: 69543369
+* Name of the asset: MESSI
 
 ## Step 3.2:
 
-* Transaction ID for opt-in of account B:
+* Transaction ID for opt-in of account B: LLDLSOTN4NVHPVOAJZ46QY7TZEI2NAXRB2O4F7WAHVP7Q4C2LB7Q
 
 ## Step 3.3:
 
-* Transaction ID for transfer of asset from A to B:
+* Transaction ID for transfer of asset from A to B: ZRJMEZ3I3K2E462JU5NJYEUCYROHSVQWC2J72DTM2YNUADI374UA
 
 ## Step 4:
 
-* Transaction ID of the first transaction of the atomic transfer:
+* Transaction ID of the first transaction of the atomic transfer: ABD6XF4U67JEYF4S6G6FQID54PGGSH6IAS5HMIB7PLMGSVTP47ZQ
 
 ## Step 5.1:
 
-* Transaction ID for opt-in of account A:
+* Transaction ID for opt-in of account A: J7RO73B3K6ZJFZYU5FCDM5NNEQASRL2E74V5KZ6EU5VATZMBB64A
 
 ## Step 5.2:
 
-* Transaction ID of the first transaction of the atomic transfer:
+* Transaction ID of the first transaction of the atomic transfer: TYQC6HGFNOBF3ONB3ZKXY6EX5YCS3MN6X3NWI53BBLR25TYPJ6BQ
